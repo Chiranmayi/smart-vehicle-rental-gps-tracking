@@ -115,4 +115,4 @@ The project includes:
 
 The backend includes authentication, vehicle management, bookings, rental lifecycle operations, GPS endpoints, maintenance, dashboard endpoints, and automated tests.
 
-Additional deployment, integration, and frontend requirements should be verified against the project specification before claiming full assignment completion.
+
